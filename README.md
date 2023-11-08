@@ -79,7 +79,7 @@ fidget games for the user to select. Each games is meant to be enjoyed for hours
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="[boredafWireFrame\.png](https://github.com/groupprojecttamusa/Group-Project/blob/main/boredafWireFrame%5C.png)" width=600>
+[Add picture of your hand sketched wireframes in this section] <img src="https://github.com/groupprojecttamusa/Group-Project/blob/main/boredafWireFrame%5C.png" width=600>
 
 <br>
 
