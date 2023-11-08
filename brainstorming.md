@@ -43,7 +43,7 @@ App Evaluations
 - **Category:** Entertainment
 - **Market:** To people who are bored and want a quick game as a distraction. 
 - **Habit:** Play the game to enjoy. 
-- **Scope:**
+- **Scope:**V1 would introduce Button Presser(PoP), Fidget Spinner, Time Stop, and Coin Flp. V2 would include a D20 Dice rolling game. V3 would add animations.
  
  
  (Should we have a timer/ clock for the games so that if they need to go somewhere.Just a random utility.)
