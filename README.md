@@ -81,13 +81,7 @@ fidget games for the user to select. Each games is meant to be enjoyed for hours
 
 [Add picture of your hand sketched wireframes in this section] <img src="https://github.com/groupprojecttamusa/Group-Project/blob/main/WireFrame.png" width=600>
 
-<br>
 
-<br>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 <br>
 
