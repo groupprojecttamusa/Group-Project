@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_coinflip"
+        android:icon="@drawable/baseline_monetization_on_24"
+        android:title="Coinflip" />
+    <item
+        android:id="@+id/action_spinner"
+        android:icon="@drawable/pending"
+        android:title="Spinner" />
+    <item
+        android:id="@+id/action_rockpaper"
+        android:icon="@drawable/pending"
+        android:title="RockPaper" />
+    <item
+        android:id="@+id/action_buttonpopper"
+        android:icon="@drawable/pending"
+        android:title="ButtonPopper" />
+    <item
+        android:id="@+id/action_stats"
+        android:icon="@drawable/pending"
+        android:title="Stats" />
+</menu>
