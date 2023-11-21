@@ -95,8 +95,10 @@ this section]
 
 ## Issue cards
 
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] <img src="https://github.com/groupprojecttamusa/Group-Project/blob/main/issuesMilestone1.png" width=600>
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="https://github.com/groupprojecttamusa/Group-Project/blob/main/issuesMilestone2.png" width=600>
+- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone]
+- <img src="https://github.com/groupprojecttamusa/Group-Project/blob/main/issuesMilestone1.png" width=600>
+- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.]
+- <img src="https://github.com/groupprojecttamusa/Group-Project/blob/main/IssuesMilestoneTwo.png" width=600>
 
 ## Issues worked on this sprint
 
