@@ -4,8 +4,12 @@
         "source": "com.example.groupproject.app-main-30:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.groupproject.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.groupproject.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.groupproject.app-merged_res-28:/layout_fragment_bubble__pop__game.xml.flat",
+        "source": "com.example.groupproject.app-main-30:/layout/fragment_bubble__pop__game.xml"
+    },
+    {
+        "merged": "com.example.groupproject.app-merged_res-28:/layout_fragment_spinner_game.xml.flat",
+        "source": "com.example.groupproject.app-main-30:/layout/fragment_spinner_game.xml"
     },
     {
         "merged": "com.example.groupproject.app-merged_res-28:/drawable_pending.xml.flat",
@@ -20,28 +24,16 @@
         "source": "com.example.groupproject.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.groupproject.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.groupproject.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "com.example.groupproject.app-merged_res-28:/xml_backup_rules.xml.flat",
         "source": "com.example.groupproject.app-main-30:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.example.groupproject.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.groupproject.app-main-30:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.groupproject.app-merged_res-28:/layout_fragment_stats.xml.flat",
+        "source": "com.example.groupproject.app-main-30:/layout/fragment_stats.xml"
     },
     {
         "merged": "com.example.groupproject.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "com.example.groupproject.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.groupproject.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.groupproject.app-main-30:/xml/data_extraction_rules.xml"
-    },
-    {
-        "merged": "com.example.groupproject.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.groupproject.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
         "merged": "com.example.groupproject.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -68,15 +60,43 @@
         "source": "com.example.groupproject.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
+        "merged": "com.example.groupproject.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.groupproject.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.groupproject.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.groupproject.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.groupproject.app-merged_res-28:/layout_fragment_rock__paper__scissors__level_up.xml.flat",
+        "source": "com.example.groupproject.app-main-30:/layout/fragment_rock__paper__scissors__level_up.xml"
+    },
+    {
+        "merged": "com.example.groupproject.app-merged_res-28:/layout_fragment_coin_fliper.xml.flat",
+        "source": "com.example.groupproject.app-main-30:/layout/fragment_coin_fliper.xml"
+    },
+    {
+        "merged": "com.example.groupproject.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.groupproject.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.groupproject.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.groupproject.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.groupproject.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.groupproject.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.groupproject.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.groupproject.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
         "merged": "com.example.groupproject.app-merged_res-28:/menu_menu_bottom_navigation.xml.flat",
         "source": "com.example.groupproject.app-main-30:/menu/menu_bottom_navigation.xml"
     },
     {
         "merged": "com.example.groupproject.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
         "source": "com.example.groupproject.app-main-30:/mipmap-hdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.groupproject.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.groupproject.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
     }
 ]

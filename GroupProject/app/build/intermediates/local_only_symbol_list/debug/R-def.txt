@@ -12,7 +12,13 @@ id action_rockpaper
 id action_spinner
 id action_stats
 id bottom_navigation
+id rlContainer
 layout activity_main
+layout fragment_bubble__pop__game
+layout fragment_coin_fliper
+layout fragment_rock__paper__scissors__level_up
+layout fragment_spinner_game
+layout fragment_stats
 menu menu_bottom_navigation
 mipmap ic_launcher
 mipmap ic_launcher_round
