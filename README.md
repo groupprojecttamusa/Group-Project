@@ -91,7 +91,7 @@ fidget games for the user to select. Each games is meant to be enjoyed for hours
 
 [Add screenshot of your Project Board with three milestones visible in
 this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://github.com/groupprojecttamusa/Group-Project/blob/main/milestone.png" width=600>
 
 ## Issue cards
 
