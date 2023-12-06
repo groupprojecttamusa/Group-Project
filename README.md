@@ -135,5 +135,4 @@ this section]
 ## App Demo Video
 
 - Embed the YouTube/Vimeo link of your Completed Demo Day prep video
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/LUeoSASHxbY?si=6YpnA1DqwKsbxKNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LUeoSASHxbY?si=DfD45_1UHXXqUbYt&amp;start=27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
