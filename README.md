@@ -124,9 +124,10 @@ this section]
 - [x] **Complete Algoriths and elements for Spinner**
 - [x] **Complete Alortithms and elements for RPSLS**
 
-- cut user stories
-- [ ] **Complete Algorithms and elements for stats screen**
-from the original requirements
+- cut user stories from the original requirements
+**Complete Algorithms and elements for stats screen**
+**Complete Splash Screen screen**
+
 
 [Add video/gif of your current application that shows build progress]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
