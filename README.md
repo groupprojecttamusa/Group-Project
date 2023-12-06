@@ -115,12 +115,17 @@ this section]
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] 
+- <img src="https://github.com/groupprojecttamusa/Group-Project/blob/main/projectboardComplete.png" width=600>
 
 ## Completed user stories
+- [x] **Complete Algoriths and elements for Coin Flip**
+- [x] **Complete Algoriths and elements for Button Pop**
+- [x] **Complete Algoriths and elements for Spinner**
+- [x] **Complete Alortithms and elements for RPSLS**
 
-- List the completed user stories from this unit
-- List any pending user stories / any user stories you decided to cut
+- cut user stories
+- [ ] **Complete Algorithms and elements for stats screen**
 from the original requirements
 
 [Add video/gif of your current application that shows build progress]
